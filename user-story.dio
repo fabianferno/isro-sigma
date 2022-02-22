@@ -1,0 +1,186 @@
+<mxfile host="65bd71144e">
+    <diagram id="SIpeTJENHiE1sl-4lK3j" name="Page-1">
+        <mxGraphModel dx="983" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="107" style="edgeStyle=none;html=1;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="905" y="440" as="sourcePoint"/>
+                        <mxPoint x="750" y="515" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="905" y="515"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="101" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="800" y="315" width="180" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="3">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="545.79" y="240"/>
+                        </Array>
+                        <mxPoint x="547.0026696832579" y="173" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;" parent="1" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="75.79" y="240.00000000000023" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="35" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="195.79" y="92"/>
+                        </Array>
+                        <mxPoint x="395.79" y="92" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="135.79" y="210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Home" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="165.79" y="225" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Send data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="255.79" y="40" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Receive data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="365.79" y="195" width="90" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="45.79" y="200" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" style="edgeStyle=none;html=1;" edge="1" parent="1" source="44" target="47">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="Super User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="610" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="47" target="48">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="Authentication&lt;br&gt;with Web3Auth SDK&lt;br&gt;+&lt;br&gt;Connect to&lt;br&gt;Wallet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="590" width="130" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="48" target="87">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;Dashboard&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;span&gt;1. View/Manage API key requests&lt;/span&gt;&lt;br&gt;&lt;span&gt;2. Manage Resources CMS&lt;/span&gt;&lt;br&gt;&lt;span&gt;&#9;&lt;/span&gt;&lt;span&gt;a)&amp;nbsp;Bulk Import/Export Data&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=21;" vertex="1" parent="1">
+                    <mxGeometry x="264" y="590" width="230" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="53" target="58">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="870" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="58" target="61">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="&lt;div&gt;&lt;span&gt;Authentication with Moralis SDK&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="105" y="874" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="61" target="63">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="Connect to Wallet" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="264" y="873" width="96" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="" style="edgeStyle=none;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="63" target="65">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" style="edgeStyle=none;html=1;" edge="1" parent="1" source="63" target="67">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="Dashboard" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="872" width="83" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="65">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="581" y="1020" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="65" value="Documentation" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=none;strokeColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="873" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="Request for API key" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="960" width="83" height="44.79" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. Search for APIs'&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. Find API docs&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. Request data using demo key&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="593" y="943" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="315" width="220" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="Smart Contract" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="365" width="123" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="Polygon Main Net" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="315" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="430" y="1080" as="targetPoint"/>
+                        <mxPoint x="430.5" y="1004.79" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="85" value="&lt;div style=&quot;text-align: left&quot;&gt;1. Register app&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;2. Get API key&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="423" y="1012" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="110" style="edgeStyle=none;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="87" target="94">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="Resources (Geospatial Data)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="590" width="220" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="111" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="94" target="87">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" value="Express &lt;b&gt;Backend API&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="490" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="IPFS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="810" y="315" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="105" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="94">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="830" y="530" as="sourcePoint"/>
+                        <mxPoint x="920" y="440" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="920" y="528"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="106" value="JSON File" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="767" y="523" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="108" value="&lt;div&gt;&lt;span&gt;IPFS CID Hash&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="780" y="490" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="109" value="Resource CID&lt;br&gt;via Contract method" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="450" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="112" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="650" y="485.87" as="sourcePoint"/>
+                        <mxPoint x="650" y="442" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="113" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="670" y="440" as="sourcePoint"/>
+                        <mxPoint x="670" y="485" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="114" value="Contract state" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="449" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FFFFFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=10;fontStyle=0;aspect=fixed;pointerEvents=1;shape=stencil(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);shadow=0;strokeWidth=0;" vertex="1" parent="1">
+                    <mxGeometry x="842.5" y="327.5" width="95" height="95" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
