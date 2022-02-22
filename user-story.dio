@@ -108,7 +108,7 @@
                     <mxGeometry x="248" y="506" width="90" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="143" value="Request&lt;br&gt;&amp;amp; Recieve Data w/ API key" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
-                    <mxGeometry x="403.12" y="446" width="60.79" height="30" as="geometry"/>
+                    <mxGeometry x="403.12" y="428" width="60.79" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="145" value="Register app &amp;amp; Get API key" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
                     <mxGeometry x="404.12" y="660" width="59.79" height="30" as="geometry"/>
