@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="U0F7osI2t801LqXB6X0H" name="Page-1">
-        <mxGraphModel dx="1937" dy="1407" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+        <mxGraphModel dx="1162" dy="436" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -66,7 +66,7 @@
                 <mxCell id="u0K1L057uPk3Ml6hZSGG-14" value="&lt;div&gt;&lt;span&gt;IPFS CID Hash&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FFFFFF;" parent="1" vertex="1">
                     <mxGeometry x="763" y="481" width="54" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="u0K1L057uPk3Ml6hZSGG-15" value="Resource CID via Contract method" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+                <mxCell id="u0K1L057uPk3Ml6hZSGG-15" value="Resource CID via Contract methods" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FFFFFF;" parent="1" vertex="1">
                     <mxGeometry x="754" y="285" width="82" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="u0K1L057uPk3Ml6hZSGG-16" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 4;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=none;strokeColor=#FFFFFF;exitX=1.03;exitY=0.148;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="u0K1L057uPk3Ml6hZSGG-58" edge="1">
@@ -129,13 +129,13 @@
                 <mxCell id="u0K1L057uPk3Ml6hZSGG-36" value="Authentication &lt;br&gt;with &lt;br&gt;Web3Auth SDK &lt;br&gt;+ &lt;br&gt;Connect to &lt;br&gt;Wallet&lt;br&gt;eg.&lt;br&gt;MetaMask,&lt;br&gt;Coinbase,&lt;br&gt;Ledger&lt;br&gt;Nano, etc." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;fontColor=#FFFFFF;fontSize=15;" parent="1" vertex="1">
                     <mxGeometry x="-106" y="273" width="143" height="353" as="geometry"/>
                 </mxCell>
-                <mxCell id="u0K1L057uPk3Ml6hZSGG-37" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 4;strokeColor=#FFFFFF;exitX=0.993;exitY=0.69;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="u0K1L057uPk3Ml6hZSGG-58" edge="1">
+                <mxCell id="u0K1L057uPk3Ml6hZSGG-37" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 4;strokeColor=#FFFFFF;exitX=0.993;exitY=0.69;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="u0K1L057uPk3Ml6hZSGG-58" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1610" y="208" as="sourcePoint"/>
                         <mxPoint x="852" y="517" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="u0K1L057uPk3Ml6hZSGG-38" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 4;strokeColor=#FFFFFF;entryX=1.002;entryY=0.83;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+                <mxCell id="u0K1L057uPk3Ml6hZSGG-38" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 4;strokeColor=#FFFFFF;entryX=1.002;entryY=0.83;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;exitX=-0.002;exitY=0.622;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="u0K1L057uPk3Ml6hZSGG-63">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="846" y="563" as="sourcePoint"/>
                         <mxPoint x="736.2860000000001" y="562.9899999999998" as="targetPoint"/>
@@ -215,21 +215,6 @@
                         <mxPoint x="-197" y="561" as="targetPoint"/>
                         <mxPoint x="-106.99900000000002" y="589.111" as="sourcePoint"/>
                     </mxGeometry>
-                </mxCell>
-                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-23" y="260" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="3" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-23" y="260" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="4" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-23" y="260" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="5" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-23" y="260" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="6" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-23" y="260" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
