@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="U0F7osI2t801LqXB6X0H" name="Page-1">
-        <mxGraphModel dx="1162" dy="436" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+        <mxGraphModel dx="1006" dy="471" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -61,7 +61,7 @@
                     <mxGeometry x="865" y="478" width="30" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="u0K1L057uPk3Ml6hZSGG-13" value="JSON&lt;br&gt;data File" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-                    <mxGeometry x="762.41" y="572" width="51" height="30" as="geometry"/>
+                    <mxGeometry x="762.41" y="572" width="59.59" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="u0K1L057uPk3Ml6hZSGG-14" value="&lt;div&gt;&lt;span&gt;IPFS CID Hash&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FFFFFF;" parent="1" vertex="1">
                     <mxGeometry x="763" y="481" width="54" height="30" as="geometry"/>
@@ -93,8 +93,8 @@
                 <mxCell id="u0K1L057uPk3Ml6hZSGG-23" value="Super User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#FF9933;strokeWidth=3;fontColor=#FFFFFF;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="-210.99999999999997" y="465" width="30" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="u0K1L057uPk3Ml6hZSGG-24" value="NextJS App" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
-                    <mxGeometry x="256" y="208" width="90" height="30" as="geometry"/>
+                <mxCell id="u0K1L057uPk3Ml6hZSGG-24" value="ReactJS + Moralis SDK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="226.85" y="232" width="139" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="u0K1L057uPk3Ml6hZSGG-25" value="Fetch Data w/ API key" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
                     <mxGeometry x="371" y="325" width="136" height="32" as="geometry"/>
@@ -135,17 +135,17 @@
                         <mxPoint x="852" y="517" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="u0K1L057uPk3Ml6hZSGG-38" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 4;strokeColor=#FFFFFF;entryX=1.002;entryY=0.83;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;exitX=-0.002;exitY=0.622;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="u0K1L057uPk3Ml6hZSGG-63">
+                <mxCell id="u0K1L057uPk3Ml6hZSGG-38" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 4;strokeColor=#FFFFFF;entryX=1.002;entryY=0.83;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;exitX=-0.002;exitY=0.622;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="u0K1L057uPk3Ml6hZSGG-63" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="846" y="563" as="sourcePoint"/>
                         <mxPoint x="736.2860000000001" y="562.9899999999998" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="u0K1L057uPk3Ml6hZSGG-39" value="&lt;span style=&quot;font-weight: normal; font-size: 10px;&quot;&gt;via &lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;ORBIT DB&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FFFFFF;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+                <mxCell id="u0K1L057uPk3Ml6hZSGG-39" value="&lt;span style=&quot;font-weight: 400&quot;&gt;pinning via&lt;br&gt;&lt;/span&gt;FileCoin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FFFFFF;fontStyle=1;fontSize=10;" parent="1" vertex="1">
                     <mxGeometry x="766" y="525" width="55" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="u0K1L057uPk3Ml6hZSGG-40" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 11px&quot;&gt;via &lt;b&gt;web3, ether.js&lt;/b&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#000000;fontStyle=0;fontSize=11;" parent="1" vertex="1">
-                    <mxGeometry x="766" y="336" width="57" height="30" as="geometry"/>
+                <mxCell id="u0K1L057uPk3Ml6hZSGG-40" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 11px&quot;&gt;via &lt;b&gt;web3, moralis sdk&lt;/b&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#000000;fontStyle=0;fontSize=11;" parent="1" vertex="1">
+                    <mxGeometry x="766" y="334" width="57" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="u0K1L057uPk3Ml6hZSGG-41" value="" style="endArrow=classic;html=1;verticalAlign=middle;horizontal=1;strokeColor=#FFFFFF;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -177,7 +177,7 @@
                         <mxPoint x="291" y="593" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="u0K1L057uPk3Ml6hZSGG-58" value="&lt;b&gt;Express &lt;br&gt;&lt;/b&gt;Backend &lt;br&gt;API" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;fontColor=#FFFFFF;fontSize=15;" parent="1" vertex="1">
+                <mxCell id="u0K1L057uPk3Ml6hZSGG-58" value="&lt;b&gt;Express&lt;br&gt;Backend API&lt;br&gt;&amp;nbsp;+ &lt;br&gt;Moralis &lt;br&gt;Cloud Code (Serverless)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;fontColor=#FFFFFF;fontSize=15;" parent="1" vertex="1">
                     <mxGeometry x="593" y="273" width="143" height="353" as="geometry"/>
                 </mxCell>
                 <mxCell id="u0K1L057uPk3Ml6hZSGG-59" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 4;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#FFFFFF;" parent="1" edge="1">
