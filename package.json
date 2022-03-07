@@ -31,8 +31,10 @@
     "helmet": "^4.6.0",
     "http-status": "^1.2.0",
     "jwks-rsa": "^2.0.5",
+    "minimist": "1.2.5",
     "morgan": "^1.10.0",
-    "nocache": "^3.0.1"
+    "nocache": "^3.0.1",
+    "web3.storage": "3.5.7"
   },
   "devDependencies": {
     "@types/dotenv": "^4.0.3",
