@@ -1,10 +1,9 @@
 import { Router } from "express";
 
-import users from "./users/users.route";
+import isro from "./isro/isro.route";
 
 const router: Router = Router();
 
-router.use("/users", users);
-// router.use("/projects", projects);
+router.use("/isro", isro);
 
 export default router;
